@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atakan Yiğit</h1>
-<h3 align="center">I'm a new electronics and communication engineer</h3>
+<h3 align="center">I'm a new electronics and communication engineer and i am interested in programming :) </h3>
 
 - 🌱 I’m currently learning **Game Developing**
 
