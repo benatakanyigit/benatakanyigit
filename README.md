@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **atakanyigit007@outlook.com**
 
-- ⚡ I guess **I guess it's not that hard as it seems.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
