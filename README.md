@@ -1,5 +1,5 @@
 <h1 align="center">Hi (: i'm atakan...</h1>
-<h3 align="center">A passionate learner, software lover</h3>
+
 
 <p align="left"> <a href="https://twitter.com/benatakanyigit" target="blank"><img src="https://img.shields.io/twitter/follow/benatakanyigit?logo=twitter&style=for-the-badge" alt="benatakanyigit" /></a> </p>
 
