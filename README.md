@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/benatakanyigit" target="blank"><img src="https://img.shields.io/twitter/follow/benatakanyigit?logo=twitter&style=for-the-badge" alt="benatakanyigit" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently interested in **Frontend Web Developing**
 
 - 💬 Ask me about **Electronics and communication engineering, MATLAB, laser techs, Arduino**
 
