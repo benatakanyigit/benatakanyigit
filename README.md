@@ -69,15 +69,6 @@ Hi, since the day i started my engineering education, i had been in various fiel
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
 ### Spotify  
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=11167422651&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" align="left" style="width: 100%" />
 
