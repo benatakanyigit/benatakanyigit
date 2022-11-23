@@ -84,10 +84,10 @@ Hi, since the day i started my engineering education, i had been in various fiel
 </div>
                                                                                                
                                                                                                
- <br/r>
+ <br/>
  
  
- <br /r>
+ <br />
                                                                                               
   
 
