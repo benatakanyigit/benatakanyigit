@@ -81,25 +81,17 @@ Hi, since the day i started my engineering education, i had been in various fiel
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=benatakanyigit&&style=flat-square" align="center" />
-                                                                                               </div>
+</div>
                                                                                                
-                      
                                                                                                
-
-
+ <br/r>
  
-
-
-
+ 
+ <br /r>
+                                                                                              
   
 
 
-  
-
-<br/>  
-
-
-<br />
 
 
 
