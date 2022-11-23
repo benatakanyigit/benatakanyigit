@@ -69,19 +69,31 @@ Hi, since the day i started my engineering education, i had been in various fiel
 
 
 ### Spotify  
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=11167422651&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" align="left" style="width: 100%" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=11167422651&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" align="left" style="width:100%/>
 
-</td></tr></table>  
 
-<br/>  
+</td> </tr> </table>
+<br/r>
 
-  
 
-<br/>  
+
+<br/r>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=benatakanyigit&&style=flat-square" align="center" />
-</div>  
+                                                                                               </div>
+                                                                                               
+                      
+                                                                                               
+
+
+ 
+
+
+
+  
+
+
   
 
 <br/>  
