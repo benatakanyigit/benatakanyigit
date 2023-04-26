@@ -40,7 +40,6 @@ Hi, since the day i started my engineering education, i had been in various fiel
 - ❓ Ask me about anything related to Communication Engineering Technologies.  
   
 
-- ⚡ Fun fact: I hate shift + 7 (:  
 
 
 </td><td valign="top" width="50%">
