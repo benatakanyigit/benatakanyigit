@@ -40,7 +40,7 @@ Hi, since the day i started my engineering education, i had been in various fiel
 
 
 
-</td><td valign="top" width="50%">
+
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
