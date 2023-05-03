@@ -34,9 +34,7 @@ Hi, since the day i started my engineering education, i had been in various fiel
 ## About Me
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript.  
-  
-
+- 🌱 I’m currently learning HTML,CSS And jS.  
 - ❓ Ask me about anything related to Communication Engineering Technologies.  
   
 
